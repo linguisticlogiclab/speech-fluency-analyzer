@@ -87,3 +87,6 @@ MIT License. See [LICENSE](./LICENSE).
 
 This tool was originally developed during the development of Cosu, an AI speaking coach designed for TOEFL and IELTS speaking practice.
 
+I'm originally a TOEFL / IELTS speaking teacher experimenting with speech analysis tools.
+
+If you have experience with audio processing or speech feature extraction, feedback and contributions are very welcome.
